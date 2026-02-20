@@ -12,7 +12,7 @@ class Solution {
                 digits[i]=0;
 
             } 
-        }
+        }   
         int arr[]=new int [n+1];
         arr[0]=1;
         
